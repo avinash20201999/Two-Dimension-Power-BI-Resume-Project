@@ -34,6 +34,20 @@ We invite students, data enthusiasts, and anyone interested in data analysis to 
 
 Let's work together to make data analysis more accessible and educational. Start your data journey with the Institute Data Dashboard Project.
 
+Some more datasets link if you want to gain some more Experience In Power Bi Journey
+
+✅5 Data Analytics/POWER BI Projects with latest datasets links you can do to boost your portfolio in 2023-
+
+🚀1. Shart Tank India :https://www.kaggle.com/datasets/thirumani/shark-tank-india
+
+🚀2. Mutual funds India : https://www.kaggle.com/datasets/ravibarnawal/mutual-funds-india-detailed
+
+ 🚀3. Google Playstore : https://www.kaggle.com/datasets/lava18/google-play-store-apps
+
+ 🚀4. Indian Restaurants : https://www.kaggle.com/datasets/arnabchaki/indian-restaurants-2023
+
+ 🚀5. Video game Sales: https://www.kaggle.com/datasets/gregorut/videogamesales
+
 **Get involved, make an impact, and develop your data skills!**
 ```
 
